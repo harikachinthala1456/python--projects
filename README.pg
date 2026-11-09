@@ -1,0 +1,30 @@
+# 🔐 Python Password Generator
+
+## About
+A Python project that generates random passwords
+based on the length entered by the user.
+
+## Features
+- Custom password length
+- Uppercase and lowercase letters
+- Numbers
+- Special characters
+
+## Technologies Used
+- Python
+- Random Module
+- String Module
+
+## Concepts Learned
+- Functions
+- Loops
+- User Input
+- Conditional Statements
+
+## How to Run
+1. Open the Python file.
+2. Run the program.
+3. Enter the desired password length.
+
+## Project Number
+36
